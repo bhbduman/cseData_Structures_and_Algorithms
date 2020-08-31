@@ -1,6 +1,6 @@
 # Explanation
-HW1
-HW2
-HW3
-HW4
-HW5
+(Java)HW1
+(Java)HW2
+(Java)HW3
+(Java)HW4
+(Java)HW5
