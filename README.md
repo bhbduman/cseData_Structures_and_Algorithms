@@ -1,2 +1,6 @@
-# cseData_Structures_and_Algorithms
-Data Structure Lecture homeworks
+# Explanation
+HW1
+HW2
+HW3
+HW4
+HW5
