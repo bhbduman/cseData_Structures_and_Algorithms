@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"bhb","l":"Admin"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"bhb","l":"Branch"},{"p":"bhb","l":"BranchEmployee"},{"p":"<Unnamed>","l":"CargoCompProgram"},{"p":"bhb","l":"Company"},{"p":"bhb","l":"MyContainer"},{"p":"bhb","l":"Person"},{"p":"bhb","l":"Shipment"},{"p":"bhb","l":"TransportationPersonnel"}]
