@@ -25,6 +25,7 @@ Cargo company program with java arrays
 
 (java)HW7
 1- Visualization of insertion deletion operations of AVLTree Red-BlackTree 2-3Tree Skiplist B-Tree with order 4 (pdf)
+3-Softwarestore automation by using search tree
 
 
 =>The projects above are working based on terminal and there is some handwritten pdfs. They have reports and java documentations within
